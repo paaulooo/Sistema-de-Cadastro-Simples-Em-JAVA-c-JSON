@@ -1,0 +1,1 @@
+Este é um pequeno sistema de cadastro de usuarios, onde se deve colocar o nome e o email do usuário, feito isso o programa irá salvar os usuários cadastrados no arquivo Json chamado de "usuarios.json".
